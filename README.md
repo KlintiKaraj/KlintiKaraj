@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Klinti Karaj
 =====================================================================================================================================
 
-## Software Engineerer
--------------------
+### Software Engineerer
 
-## 💫 About Me
+### 💫 About Me
 
 🎓 Software Engineering student
 
@@ -15,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I enjoy building projects, understanding how things work,
 and improving my skills step by step.
 
-\---
+
 
 ## 📚 Currently Learning
 
