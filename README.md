@@ -4,7 +4,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 
 <h3 align="center">Software Engineerer</h3>
 
----
+
 
 ## 💫 About Me
 
@@ -15,7 +15,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 I enjoy building projects, understanding how things work,  
 and improving my skills step by step.
 
----
+
 
 ## 🤝 Open to Collaboration
 
@@ -24,7 +24,7 @@ If you're working on something interesting, feel free to reach out.
 - 🌍 I'm based in Albania  
 - ✉️ You can contact me at **businessklinti@gmail.com**
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -39,7 +39,7 @@ If you're working on something interesting, feel free to reach out.
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="45" height="45" /></a>
 </p>
 
----
+
 
 ## 🌐 Socials
 
