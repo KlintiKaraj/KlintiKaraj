@@ -9,7 +9,9 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 ## 💫 About Me
 
 🎓 Software Engineering student  
+
 💻 C++ enjoyer
+
 🌍 Based in Albania  
 
 I enjoy building projects, understanding how things work,  
